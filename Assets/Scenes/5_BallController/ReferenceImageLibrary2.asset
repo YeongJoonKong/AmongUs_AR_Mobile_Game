@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary2
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4955892240775896225
+  m_GuidHigh: 13997948893652449935
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5545531798053164529
+      m_GuidHigh: 14327318860545030558
+    m_SerializedTextureGuid:
+      m_GuidLow: 5680238051792829571
+      m_GuidHigh: 6903212788240911896
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: AMONGUSMONSTER (1)
+    m_Texture: {fileID: 0}
